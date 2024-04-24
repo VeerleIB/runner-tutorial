@@ -6,7 +6,10 @@ Welcome to my journey of discovering pygame for the first time!
 _By [Veerle B](https://github.com/VeerleIB)_
 
 ## Overview
-- Sources(#sources)
+  - [Overview](#overview)
+  - [Sources] (#sources)
+  - [Learned] (#Learned)
+  - [Future_improvements](#future-improvements)
 - Learned
 - Future improvements
 
@@ -15,4 +18,3 @@ _By [Veerle B](https://github.com/VeerleIB)_
 ## Learned
 
 ## Future improvements
-
