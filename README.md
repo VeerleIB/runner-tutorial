@@ -5,9 +5,9 @@ Welcome to my journey of discovering pygame for the first time!
 _By [Veerle B](https://github.com/VeerleIB)_
 
 ## Overview
-  - Sources
-  - Learned
-  - Future_improvements
+  - [Sources](#sources)
+  - [Learned](#learned)
+  - [Future improvements](#future_improvements)
 
 ## Sources
 Thru this learning process, I've relied on tutorials, documentation and community forums to keep myself sane. o deepen my understanding of pygame. Here is a list of sources i've used:
@@ -15,5 +15,7 @@ Thru this learning process, I've relied on tutorials, documentation and communit
 - [Pygame documentation](https://www.pygame.org/docs/)
 
 ## Learned
+I've learned a ton!
 
 ## Future improvements
+Not that many expect more features to add/test out.
