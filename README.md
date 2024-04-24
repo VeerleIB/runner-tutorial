@@ -29,4 +29,10 @@ I've learned a ton, thankfully! Among the 2 Python project i've tackled so far, 
 While some of these concepts may still feel a bit shaky, the exposure to new techniques has improved my understanding immensily. And like everyone experiences when learning something new: _“The more I know, the more I realize I know nothing.”_
 
 ## Future improvements
-Not that many expect more features to add/test out.
+In the future, I hope to look back on this an either laugh or cringe. And that's perfectly okay—it's all part of the learning process! Looking ahead, there are several areas I'd like to refine:
+#### Improved enemy spawning mechanism
+Currently, I'm using the choice function from the random module to determine the type of obstacle/enemy to spawn. However, this feels restrictive in what it's supposed to achieve. Allocating a 1/4 chance to spawn a fly could be done in a more efficient way instead of writing choice(['fly','snail','snail','snail']). How exactly this can be achieved remains to be seen when considered fully.
+#### Enhancing player input handling
+The player jumping is controlled directly via pygame.key.get_pressed(). While functional, in the future, I would like to utilize the event loop. Not only is it more efficient, but it's also applicable to the goal I want to work toward: coding in a game engine, which usually uses event loops to handle player inputs.
+#### Adding 'settings'
+I would like to incorporate settings the player could adjust, like volume control and diffuctly, to add an extra layer of polish.
