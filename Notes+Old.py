@@ -1,3 +1,5 @@
+#EndlessRunnerGame.py before general clean up and with old notes and methods.
+
 import pygame
 from sys import exit
 from random import randint, choice
