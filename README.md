@@ -1,6 +1,6 @@
 # Runner Tutorial
 ### Welcome to my journey of discovering Pygame for the first time!
-This is a small endless runner game I created while learning the Pygame libary with the Ultimate Pygame Tutorial.H
+This is a small endless runner game I created while learning the Pygame libary with the Ultimate Pygame Tutorial.
 
 
 ![Screenshot_Gameplay](graphics/screenshot_gameplay.png)
